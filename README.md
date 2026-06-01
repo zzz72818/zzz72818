@@ -136,5 +136,5 @@ Regression Analysis, Time Series Forecasting, Statistical Modeling, Predictive A
 ## Contact
 
 - Email: tigernike0513@gmail.com
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: https://www.linkedin.com/in/poantao
 - GitHub: https://github.com/zzz72818
