@@ -6,7 +6,7 @@ Hello! I'm Po An Tao, a recent M.S. Business Analytics graduate from George Wash
 
 My work focuses on turning structured and unstructured data into actionable insights through Python, SQL, Excel, Power BI, R, and SAS. I am especially interested in business analysis, operations analytics, process improvement, KPI reporting, and data-driven decision support.
 
-I am actively seeking opportunities in Business Analyst, Operations Analyst, Management Analyst, Reporting Analyst, and Supply Chain / Process Analyst roles.
+On this page, you'll find selected projects showcasing my expertise in machine learning, SQL implementation, BI visualiztion and Python coursework.
 
 ---
 
