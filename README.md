@@ -1,137 +1,140 @@
-# Hi, I'm Po An Tao 👋
+# Po An Tao - Business Analytics Portfolio
 
-M.S. Business Analytics @ George Washington University
+### About Me
 
-I’m passionate about:
+Hello! I'm Po An Tao, a recent M.S. Business Analytics graduate from George Washington University. I have hands-on experience in data analysis, reporting automation, workflow coordination, and business process improvement.
 
-* Business Analytics
-* AI Product Strategy
-* Predictive Modeling
-* Decision Science
-* Healthcare Analytics
-* Recommendation Systems
-* Risk & Simulation Modeling
+My work focuses on turning structured and unstructured data into actionable insights through Python, SQL, Excel, Power BI, R, and SAS. I am especially interested in business analysis, operations analytics, process improvement, KPI reporting, and data-driven decision support.
+
+I am actively seeking opportunities in Business Analyst, Operations Analyst, Management Analyst, Reporting Analyst, and Supply Chain / Process Analyst roles.
 
 ---
 
-# Featured Projects
+### Table of Contents
 
-## 🥗 CAVA AI Smart Nutrition Concierge
-
-AI-powered nutrition recommendation platform designed for personalized wellness and meal optimization.
-
-### Key Areas
-
-* AI Product Strategy
-* Recommendation Systems
-* Customer Analytics
-* UX/UI Prototyping
-
-🔗 Repository:
-[cava-ai-nutrition-concierge](https://github.com/zzz72818/cava-ai-nutrition-concierge)
+- About Me
+- Selected Projects
+  - SkillUp Job Success Analytics
+  - Yellowstone Visitor Forecasting
+  - Diabetes Healthcare Expenditure Analysis
+  - CAVA AI Smart Nutrition Concierge
+- Technical Skills
+- Contact
 
 ---
 
-## 🏥 Diabetes Healthcare Expenditure Analysis
+## Selected Projects
 
-Healthcare analytics project using MEPS survey data to identify healthcare expenditure trends and major healthcare cost drivers among diabetes patients.
+### SkillUp Job Success Analytics
 
-### Key Areas
+**Repository:** [skillup-job-success-analytics](https://github.com/zzz72818/skillup-job-success-analytics)
 
-* Healthcare Analytics
-* Statistical Modeling
-* Regression Analysis
-* Survey Data Analytics
+**Description:**  
+Analyzed workforce training participation and job placement outcomes to identify factors associated with successful career transitions. The project focused on data cleaning, exploratory analysis, outcome tracking, and business recommendations for improving user engagement and program effectiveness.
 
-🔗 Repository:
-[diabetes-healthcare-expenditure-analysis](https://github.com/zzz72818/diabetes-healthcare-expenditure-analysis)
+**Role:**  
+Responsible for data preparation, exploratory analysis, feature review, outcome interpretation, and business insight development.
 
----
+**Business Value:**  
+Provided actionable insights to help improve training participation, job search support, and user outcome tracking.
 
-## 📈 Yellowstone Visitor Forecasting
-
-Time series forecasting project using SARIMA, Holt-Winters, and regression with AR errors to predict Yellowstone National Park visitation trends.
-
-### Key Areas
-
-* Time Series Forecasting
-* Predictive Analytics
-* Statistical Modeling
-
-🔗 Repository:
-[yellowstone-visitor-forecasting](https://github.com/zzz72818/yellowstone-visitor-forecasting)
+**Skills Used:**
+- Python
+- Data Cleaning
+- Exploratory Data Analysis
+- KPI Analysis
+- Business Analytics
+- Outcome Measurement
 
 ---
 
-## 🎯 InterCat IPO Risk Simulation
+### Yellowstone Visitor Forecasting
 
-Project risk analysis and Monte Carlo simulation for IPO scheduling and budget optimization.
+**Repository:** [yellowstone-visitor-forecasting](https://github.com/zzz72818/yellowstone-visitor-forecasting)
 
-### Key Areas
+**Description:**  
+Built time series forecasting models to predict monthly visitor trends for Yellowstone National Park. The project compared seasonal regression, Holt-Winters, SARIMA, and regression with autoregressive errors to evaluate forecasting accuracy.
 
-* Monte Carlo Simulation
-* Risk Modeling
-* Critical Path Analysis
-* Project Analytics
+**Role:**  
+Responsible for model development, trend analysis, forecast evaluation, and business interpretation of visitor demand patterns.
 
-🔗 Repository:
-[intercat-ipo-risk-analysis](https://github.com/zzz72818/intercat-ipo-risk-analysis)
+**Business Value:**  
+Forecasting visitor demand can support staffing, capacity planning, resource allocation, and operational decision-making.
 
----
-
-## 🏔 White Mountain Investment Decision Analysis
-
-Strategic investment evaluation project using decision trees, expected value analysis, and sensitivity modeling.
-
-### Key Areas
-
-* Decision Analysis
-* Sensitivity Analysis
-* Strategic Modeling
-* Business Risk Evaluation
-
-🔗 Repository:
-[white-mountain-investment-analysis](https://github.com/zzz72818/white-mountain-investment-analysis)
+**Skills Used:**
+- R
+- Time Series Forecasting
+- SARIMA
+- Holt-Winters
+- Regression Analysis
+- Forecast Evaluation
 
 ---
 
-# Technical Skills
+### Diabetes Healthcare Expenditure Analysis
 
-## Analytics & Programming
+**Repository:** [diabetes-healthcare-expenditure-analysis](https://github.com/zzz72818/diabetes-healthcare-expenditure-analysis)
 
-* Python
-* SAS
-* SQL
-* R
-* Excel
+**Description:**  
+Analyzed U.S. healthcare expenditure trends among diabetes patients using MEPS survey data. The project examined cost drivers and healthcare utilization patterns through statistical analysis and survey-weighted modeling.
 
-## Machine Learning & Analytics
+**Role:**  
+Responsible for data preparation, statistical analysis, model interpretation, and healthcare cost insight development.
 
-* Regression Modeling
-* Forecasting
-* Monte Carlo Simulation
-* Decision Analysis
-* Recommendation Systems
+**Business Value:**  
+Helped identify major cost drivers and spending patterns that can support healthcare planning and policy analysis.
 
-## Product & Visualization
-
-* v0
-* AI-assisted prototyping
-* Dashboard Design
-* Business Strategy
-* PowerBI
----
-
-# Currently Exploring
-
-* AI Product Analytics
-* Recommendation Engine Design
-* Agentic AI Workflows
-* Predictive Decision Systems
-* Financial Market Analytics
+**Skills Used:**
+- SAS
+- Healthcare Analytics
+- Regression Analysis
+- Survey Data Analysis
+- Statistical Modeling
+- Cost Analysis
 
 ---
 
-# Contact
+### CAVA AI Smart Nutrition Concierge
 
-📧 [tigernike0513@gmail.com](mailto:tigernike0513@gmail.com)
+**Repository:** [cava-ai-nutrition-concierge](https://github.com/zzz72818/cava-ai-nutrition-concierge)
+
+**Description:**  
+Developed a business strategy and AI-assisted product concept for a personalized nutrition recommendation system. The project focused on customer needs, product positioning, user journey design, and prototype development.
+
+**Role:**  
+Contributed to business strategy, user experience planning, market opportunity analysis, and AI-assisted prototype development.
+
+**Business Value:**  
+Demonstrated how customer analytics and personalization can improve user engagement, product discovery, and customer retention.
+
+**Skills Used:**
+- Business Strategy
+- Customer Analytics
+- Product Analytics
+- AI-Assisted Prototyping
+- UX/UI Planning
+- Recommendation Systems
+
+---
+
+## Technical Skills
+
+**Programming & Analytics:**  
+Python, SQL, R, SAS, Excel
+
+**Business Intelligence & Visualization:**  
+Power BI, Tableau, Dashboard Design, KPI Reporting
+
+**Business & Operations Analytics:**  
+Process Improvement, Workflow Automation, Reporting Automation, Requirement Gathering, Stakeholder Communication, Performance Monitoring
+
+**Modeling & Analysis:**  
+Regression Analysis, Time Series Forecasting, Statistical Modeling, Predictive Analytics, Decision Analysis
+
+---
+
+## Contact
+
+- Email: tigernike0513@gmail.com
+- LinkedIn: Add your LinkedIn link here
+- GitHub: https://github.com/zzz72818
